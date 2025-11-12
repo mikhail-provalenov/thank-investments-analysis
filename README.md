@@ -7,7 +7,7 @@
 tbank-investments-analysis/
 │
 ├── data/
-│   └── investments_dataset.csv
+│   └── investment_sample_25k.csv
 │
 ├── notebooks/
 │   └── investment_analysis.ipynb
